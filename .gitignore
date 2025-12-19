@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do NOT upload raw data)
+data/raw/
+data/processed/
+
+# Experiments
+experiments/results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv
