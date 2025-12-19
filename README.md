@@ -1,3 +1,5 @@
+[中文版 README](README_zh.md)
+
 # Physics-Consistent Lightweight Deep Learning for Seasonal Prediction of Arctic Sea Ice Concentration (1–6 Months)
 
 This repository provides a reproducible **Jupyter + Python** data science project for
