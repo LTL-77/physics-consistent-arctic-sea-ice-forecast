@@ -8,7 +8,6 @@ from src.datasets import (
     build_static_ice_mask,
 )
 
-
 def main():
     data_dir = Path("data/raw/nsidc_sic")
     out_dir = Path("data/eval")
