@@ -25,3 +25,12 @@ Thumbs.db
 # Environments
 .env
 .venv
+
+# Private prompts, notes, and local scratch files
+prompt*.md
+/中英对照表.txt
+/实验需知.txt
+/temp.py
+
+# Runtime logs may contain local paths and environment details
+/logs/
